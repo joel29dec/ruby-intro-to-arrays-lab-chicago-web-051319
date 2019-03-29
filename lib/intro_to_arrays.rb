@@ -11,7 +11,7 @@ def first_element(arr)
 end
 
 def third_element(arr)
-  arr.[2]
+  arr[2]
 end
 
 def last_element(arr)
